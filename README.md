@@ -58,14 +58,12 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
-
-
+![alt text](Circuit.png)
 
 
 # Output
-
-
-
+## Bill of Materials
+![alt text](BOM.png)
 
 
 # Result 
